@@ -4,6 +4,8 @@ Neste repositório constam as informações e artefatos do trabalho de conclusã
 
 ### Arquitetura
 
+[Arquitetura](arquitetura.md)
+
 {% page-ref page="arquitetura.md" %}
 
 ### Artefatos
