@@ -26,5 +26,5 @@ De acordo com as médias das notas recebidas e a nota meta estabelecida podemos 
 
 Próximo: [Considerações gerais do sistema](consideracoes-gerais-do-sistema.md)
 
-Voltar: [Documentação e Artefatos](../)
+Voltar: [Documentação e Artefatos](https://github.com/bklass/darkcast-documentation)
 

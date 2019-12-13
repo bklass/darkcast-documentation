@@ -6,5 +6,5 @@ O Backlog foi criado com um Kanban dentro do Stormboard, na Imagem abaixo mostra
 
 Próximo: [Perfil dos usuários](../validacao/perfil-dos-usuarios.md)
 
-Voltar: [Documentação e Artefatos](../)
+Voltar: [Documentação e Artefatos](https://github.com/bklass/darkcast-documentation)
 

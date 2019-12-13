@@ -6,5 +6,5 @@ O Canvas gerado do projeto de acordo com o primeiro levantamento do problema. Na
 
 Próximo: [Json Schema](json-schema.md)
 
-Voltar: [Documentação e Artefatos](../)
+Voltar: [Documentação e Artefatos](https://github.com/bklass/darkcast-documentation)
 

@@ -8,5 +8,5 @@ O resultado dessa concepção foi utilizado como base para a criação dos wiref
 
 Próximo: [Wireframe de Alta Fidelidade](wireframe-de-alta-fidelidade.md)
 
-Voltar: [Documentação e Artefatos](../)
+Voltar: [Documentação e Artefatos](https://github.com/bklass/darkcast-documentation)
 

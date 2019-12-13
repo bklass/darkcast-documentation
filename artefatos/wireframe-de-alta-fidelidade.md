@@ -8,5 +8,5 @@ O fluxo pensado incialmente era este porém devido a experiência do usuário fo
 
 Próximo: [Backlog](backlog.md)
 
-Voltar: [Documentação e Artefatos](../)
+Voltar: [Documentação e Artefatos](https://github.com/bklass/darkcast-documentation)
 

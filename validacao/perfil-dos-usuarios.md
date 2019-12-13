@@ -18,5 +18,5 @@ Os resultados mostram que 71,4% dos usuários já costumam ouvir podcasts e que 
 
 Próximo: [Experiência do usuário](experiencia-do-usuario.md)
 
-Voltar: [Documentação e Artefatos](../)
+Voltar: [Documentação e Artefatos](https://github.com/bklass/darkcast-documentation)
 

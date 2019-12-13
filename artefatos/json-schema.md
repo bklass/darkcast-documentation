@@ -12,5 +12,5 @@ Na Imagem abaixo temos a coleção de “Tracks” que consiste nas informaçõe
 
 Próximo: [Crazy 8](crazy-8.md)
 
-Voltar: [Documentação e Artefatos](../)
+Voltar: [Documentação e Artefatos](https://github.com/bklass/darkcast-documentation)
 
