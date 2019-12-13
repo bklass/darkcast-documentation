@@ -4,31 +4,21 @@ Neste repositório constam as informações e artefatos do trabalho de conclusã
 
 ### Arquitetura
 
-[Arquitetura](arquitetura.md)
-
-{% page-ref page="arquitetura.md" %}
+* [Arquitetura](arquitetura.md)
 
 ### Artefatos
 
-{% page-ref page="artefatos/canvas-mvp.md" %}
-
-{% page-ref page="artefatos/json-schema.md" %}
-
-{% page-ref page="artefatos/wireframe-de-alta-fidelidade.md" %}
-
-{% page-ref page="artefatos/crazy-8.md" %}
-
-{% page-ref page="artefatos/backlog.md" %}
+* [Canvas MVP](artefatos/canvas-mvp.md)
+* [Json Schema](artefatos/json-schema.md)
+* [Crazy 8](artefatos/crazy-8.md)
+* [Wireframe de Alta Fidelidade](artefatos/wireframe-de-alta-fidelidade.md)
+* [Backlog](artefatos/backlog.md)
 
 ### Validação
 
-{% page-ref page="validacao/perfil-dos-usuarios.md" %}
-
-{% page-ref page="validacao/experiencia-do-usuario.md" %}
-
-{% page-ref page="validacao/consideracoes-gerais-do-sistema.md" %}
-
-
+* [Perfil dos usuários](validacao/perfil-dos-usuarios.md)
+* [Experiência do usuário](validacao/experiencia-do-usuario.md)
+* [Considerações gerais do sistema](validacao/consideracoes-gerais-do-sistema.md)
 
 
 
