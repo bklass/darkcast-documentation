@@ -10,7 +10,7 @@ Tanto o Frontend quanto o Backend ficarão hospedados em máquinas EC2 isoladas 
 
 ![Fonte: Desenvolvido pela autora do projeto](.gitbook/assets/0-lgzkiiutzu7ezmjk.png)
 
-[Canvas MVP](artefatos/canvas-mvp.md)
+Próximo: [Canvas MVP](artefatos/canvas-mvp.md)
 
-[Documentação e Artefatos](./)
+Voltar: [Documentação e Artefatos](./)
 

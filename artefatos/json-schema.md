@@ -10,7 +10,7 @@ Na Imagem abaixo temos a coleção de “Tracks” que consiste nas informaçõe
 
 ![Fonte: Desenvolvido pela autora do projeto](../.gitbook/assets/1-jp5fij40s5a_mc_rcv-p3a.png)
 
-[Crazy 8](crazy-8.md)
+Próximo: [Crazy 8](crazy-8.md)
 
-[Documentação e Artefatos](../)
+Voltar: [Documentação e Artefatos](../)
 

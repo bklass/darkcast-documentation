@@ -6,7 +6,7 @@ O conceito do Crazy Eights é materializar de forma criativa a ideia do produto.
 
 O resultado dessa concepção foi utilizado como base para a criação dos wireframes de alta fidelidade.
 
-[Wireframe de Alta Fidelidade](wireframe-de-alta-fidelidade.md)
+Próximo: [Wireframe de Alta Fidelidade](wireframe-de-alta-fidelidade.md)
 
-[Documentação e Artefatos](../)
+Voltar: [Documentação e Artefatos](../)
 

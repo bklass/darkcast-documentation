@@ -16,7 +16,7 @@ Nas Imagens abaixo temos as respostas sobre hábitos, onde foi questionado se os
 
 Os resultados mostram que 71,4% dos usuários já costumam ouvir podcasts e que mais de 85% dos usuários costumam jogar.
 
-[Experiência do usuário](experiencia-do-usuario.md)
+Próximo: [Experiência do usuário](experiencia-do-usuario.md)
 
-[Documentação e Artefatos](../)
+Voltar: [Documentação e Artefatos](../)
 
