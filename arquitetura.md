@@ -12,5 +12,5 @@ Tanto o Frontend quanto o Backend ficarão hospedados em máquinas EC2 isoladas 
 
 Próximo: [Canvas MVP](artefatos/canvas-mvp.md)
 
-Voltar: [Documentação e Artefatos](./)
+Voltar: [Documentação e Artefatos](https://github.com/bklass/darkcast-documentation)
 
