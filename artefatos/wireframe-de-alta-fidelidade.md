@@ -6,3 +6,7 @@ Com base no Crazy 8 foi utilizado o Figma para criar os wireframes de alta fidel
 
 O fluxo pensado incialmente era este porém devido a experiência do usuário foi resolvido mudar a tela de "Iniciar" para a segunda posição para dar a sensação de inicio do jogo ao invés de uma tela de cadastro.
 
+[Backlog](backlog.md)
+
+[Documentação e Artefatos](../)
+

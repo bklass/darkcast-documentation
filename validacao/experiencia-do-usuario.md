@@ -24,3 +24,7 @@ Por fim foi realizada a pergunta da experiência de forma geral do uso do sistem
 
 De acordo com as médias das notas recebidas e a nota meta estabelecida podemos ver que o sistema teve uma boa aceitação do público.
 
+[Considerações gerais do sistema](consideracoes-gerais-do-sistema.md)
+
+[Documentação e Artefatos](../)
+
